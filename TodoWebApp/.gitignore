@@ -1,0 +1,42 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency Directories
+node_modules/
+__pycache__/
+*.pyc
+
+# Build Artifacts
+*.class
+*.o
+*.a
+*.obj
+*.exe
+*.dll
+*.so
+*.out
+*.app
+
+# Log Files
+*.log
+
+# Sensitive Information
+.env
+secrets.json
+
+# Generated Files
+generated/
+*.css
+
+# User-specific Files
+*~
+
+# Miscellaneous
+temp/
